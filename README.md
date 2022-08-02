@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ogechi3131
+- 👀 I’m interested in HTML/CSS/JAVASCRIPT
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
